@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidSnackbar</string>
+
+    <string name="snackbar_simple">Simple Snackbar</string>
+    <string name="snackbar_callback">Snackbar with callback</string>
+    <string name="snackbar_custom">Custom Snackbar</string>
+</resources>
